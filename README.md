@@ -97,9 +97,12 @@ Contributions are welcome! Please read our [Contributing Guidelines](https://git
 ## 🤝 مشارکت
 
 مشارکت‌های شما خوش‌آمد است! لطفاً [راهنمای مشارکت](https://github.com/mahdizebardastbarzin/mahdizebardastbarzin/blob/main/CONTRIBUTING.md) را مطالعه کنید
+
+
 ---
 ## 📝 مجوز / License
 
 MIT License
+
 
 
