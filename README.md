@@ -89,13 +89,17 @@ project/
 * requests
 
 ---
-🤝 Contributing
-Contributions are welcome! Please read our Contributing Guidelines to get started.
 
-🤝 مشارکت
-مشارکت‌های شما خوش‌آمد است! لطفاً راهنمای مشارکت را مطالعه کنید.
+## 🤝 Contributing
+
+Contributions are welcome! Please read our [Contributing Guidelines](https://github.com/mahdizebardastbarzin/mahdizebardastbarzin/blob/main/CONTRIBUTING.md) to get started.
+
+## 🤝 مشارکت
+
+مشارکت‌های شما خوش‌آمد است! لطفاً [راهنمای مشارکت](https://github.com/mahdizebardastbarzin/mahdizebardastbarzin/blob/main/CONTRIBUTING.md) را مطالعه کنید
 ---
 ## 📝 مجوز / License
 
 MIT License
+
 
